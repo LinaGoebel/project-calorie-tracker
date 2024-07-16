@@ -1,4 +1,3 @@
-Hallo Lina!
 package model;
 
 public enum Menu {
